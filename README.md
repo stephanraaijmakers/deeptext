@@ -1,2 +1,2 @@
 # deeptext
-Case-cased explanations for deep learning-based text mining
+Explanations for deep learning-based text mining
